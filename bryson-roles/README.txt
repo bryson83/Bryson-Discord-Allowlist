@@ -1,0 +1,1 @@
+Change the config to enable the discord allowlist
